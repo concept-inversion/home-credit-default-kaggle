@@ -3,3 +3,5 @@ data/
 result_data/
 graph_csv/
 graph_csv.rar
+__pycache__/
+
